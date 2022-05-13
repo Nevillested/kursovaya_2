@@ -1,0 +1,25 @@
+﻿  kursovaya_2.cpp
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(1,1): error C2873: 'System': symbol cannot be used in a using-declaration
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(2,13): error C2059: syntax error: '.'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(3,13): error C2059: syntax error: '.'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(7,18): error C3646: 'mutexObj': unknown override specifier
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(7,33): error C2061: syntax error: identifier 'Mutex'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(7,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(7,38): error C2864: 'Program::Mutex': a static data member with an in-class initializer must have non-volatile const integral type or be specified as 'inline'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(7,38): message : type is 'int'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(8,21): error C2864: 'Program::x': a static data member with an in-class initializer must have non-volatile const integral type or be specified as 'inline'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(8,21): message : type is 'int'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(11,22): error C2061: syntax error: identifier 'string'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(38,12): error C2062: type 'void' unexpected
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(39,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(41,23): error C2018: unknown character '0x40'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(41,24): warning C4129: 'V': unrecognized character escape sequence
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(41,24): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(41,24): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(54,12): error C2062: type 'void' unexpected
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(55,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(59,28): error C2018: unknown character '0x40'
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(59,29): warning C4129: 'V': unrecognized character escape sequence
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(59,29): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(59,29): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\Van\source\repos\kursovaya_2\kursovaya_2\kursovaya_2.cpp(73,1): fatal error C1004: unexpected end-of-file found
